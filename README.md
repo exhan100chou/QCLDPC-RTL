@@ -16,9 +16,10 @@ Project: Data Packing QC-LDPC Decoder \
    
 ![alt text](https://github.com/exhan100chou/QCLDPC-RTL/blob/main/photo/Fig3.jpg)
 
-4. Finite state machine time sheet 
+4. Finite state machine timesheet 
 ![alt text](https://github.com/exhan100chou/QCLDPC-RTL/blob/main/photo/Fig4.jpg)
 
+5. \
 Testbench 1 of LDPC decoder 48bit input/ 40*8bit output:\
           Input code data from file codeword.txt\
            Test algorithm behavior for each single block\
