@@ -1,4 +1,6 @@
-QCLDPC-RTLVerilog for the paper "A novel data packing technique for QC-LDPC decoder architecture applied to NAND flash controller"\
+# QCLDPC RTL Verilog Channal Codec
+for the paper "A novel data packing technique for QC-LDPC decoder architecture applied to NAND flash controller"\
+https://ieeexplore.ieee.org/abstract/document/9015393 \
 Project: QC-LDPC Decoder\
 Testbench 1 of LDPC decoder 48bit input/ 40*8bit output:\
           Input code data from file codeword.txt\
