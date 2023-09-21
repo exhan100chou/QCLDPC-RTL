@@ -1,7 +1,8 @@
 # QCLDPC RTL Verilog Channal Codec
 for the paper "A novel data packing technique for QC-LDPC decoder architecture applied to NAND flash controller"\
 https://ieeexplore.ieee.org/abstract/document/9015393 \
-Project: Data Packing QC-LDPC Decoder \
+
+Project: Data Packing QC-LDPC Decoder 
 1. (A) Nature order data packing into memory (B) The proposed order data packing 
 
 ![alt text](https://github.com/exhan100chou/QCLDPC-RTL/blob/main/photo/Fig1.jpg)
